@@ -5,8 +5,8 @@ import (
 	"net/http"
 )
 
-//用文件终端go build ./exe运行
-
+// 用文件终端go build ./exe运行
+// test git
 func handle(w http.ResponseWriter, r *http.Request) {
 	//定义模板
 	//解析模板
